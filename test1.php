@@ -2,6 +2,7 @@
 //add new line
 //add new line 2
 //add new line 3
+//add new line 4
 Define("YJ_SysError",false);
 
 //错误输出方式
