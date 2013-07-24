@@ -1,6 +1,7 @@
 <?php
 //add new line
 //add new line 2
+//add new line 3
 Define("YJ_SysError",false);
 
 //错误输出方式
