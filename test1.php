@@ -1,5 +1,5 @@
 <?php
-
+//add new line
 Define("YJ_SysError",false);
 
 //错误输出方式
