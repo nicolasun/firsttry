@@ -5,6 +5,7 @@
 //add new line 4
 //add new line 5
 //add new line 6
+//add new test 1
 Define("YJ_SysError",false);
 
 //错误输出方式
